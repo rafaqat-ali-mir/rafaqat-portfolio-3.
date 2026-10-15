@@ -530,7 +530,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-white/[0.06] px-6 py-6">
         <div className="mx-auto flex max-w-6xl flex-col justify-between gap-2 text-xs text-gray-500 sm:flex-row sm:items-center">
-          <p>© {new Date().getFullYear()} Rafaqat Ali. All rights reserved.</p>
+          <p>© 2026 Rafaqat Ali. All rights reserved.</p>
           <p>Designed & built with Next.js and Tailwind CSS.</p>
         </div>
       </footer>
